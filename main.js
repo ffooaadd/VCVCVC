@@ -1,1 +1,0 @@
-// Final JS with Firebase Auth, Firestore integration, Google Sign-In, and enhancements
